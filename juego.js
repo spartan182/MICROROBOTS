@@ -1,5 +1,5 @@
 
-/* Creamos un array bidimensional par los numeros*/
+/* Creamos un array bidimensional para los numeros*/
 function crearNumeros()
 {
   var numeros=
@@ -13,7 +13,7 @@ function crearNumeros()
 }
 
 
-/*Creamos un array bidimensional par los colores*/
+/*Creamos un array bidimensional para los colores*/
 function crearColores()
 {
   var colores=["#0000FF","#FFFF00","#FF00FF","#FF0000","#FAFAFA","#01DF01"];
